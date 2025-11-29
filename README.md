@@ -25,6 +25,6 @@ npm run dev
 ---
 
 ## 🌐 **
-> 🔗 **Live Demo:** 
+> 🔗 **Live Demo:** https://tenziex.netlify.app/
 ---
 
